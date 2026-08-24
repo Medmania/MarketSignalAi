@@ -98,12 +98,14 @@ def run_agent():
 
             signal_type = None
 
-            # BUY CRITERIA: RSI pullback (< 50) + Uptrend (Above 200 EMA) + Bullish MACD
-            if rsi < 50 and price > ema200 and macd_val > signal_val:
+            # 🟢 HIGH-PROBABILITY BUY:
+            # Price above 200 EMA (Uptrend) + Healthy Pullback (RSI between 35 and 48) + Bullish MACD
+            if 35 <= rsi <= 48 and price > ema200 and macd_val > signal_val:
                 signal_type = "BUY"
             
-            # EXIT / PROFIT-TAKING CRITERIA: RSI Overbought (> 68) or Breakdown below 200 EMA
-            elif rsi > 68 or (price < ema200 and rsi < 42):
+            # 🔴 STRICT PROFIT-TAKING EXIT:
+            # Overbought RSI (> 72) indicating top of swing
+            elif rsi >= 72:
                 signal_type = "EXIT"
 
             if signal_type:
@@ -124,10 +126,11 @@ def run_agent():
                     f"{icon} <b>AI {signal_type} SIGNAL: {ticker}</b>\n\n"
                     f"<b>Price:</b> ₹{price} | <b>RSI:</b> {rsi}\n"
                     f"<b>Setup:</b> {indicators_text}\n\n"
-                    f"<b>AI Thesis:</b>\n{analysis}"
+                    f"<b>Thesis:</b>\n{analysis}"
                 )
                 send_telegram_alert(msg)
                 print(f"Dispatched {signal_type} alert for {ticker}")
+
 
         except Exception as e:
             print(f"Error processing {ticker}: {e}")
