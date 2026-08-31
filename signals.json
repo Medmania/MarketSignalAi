@@ -1,14 +1,23 @@
 {
-  "last_updated": "29 Aug 2026, 02:41 AM IST",
+  "last_updated": "31 Aug 2026, 04:32 PM IST",
   "signals": [
+    {
+      "ticker": "AXISBANK.NS",
+      "type": "EXIT",
+      "price": 1300.0,
+      "rsi": 74.48,
+      "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
+      "time": "31 Aug 2026, 04:32 PM IST",
+      "analysis": "EXIT trigger active at \u20b91300.0 (RSI: 74.48)."
+    },
     {
       "ticker": "KOTAKBANK.NS",
       "type": "EXIT",
-      "price": NaN,
-      "rsi": 79.52,
+      "price": 419.4,
+      "rsi": 73.58,
       "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "29 Aug 2026, 02:41 AM IST",
-      "analysis": "EXIT trigger active at \u20b9nan (RSI: 79.52)."
+      "time": "31 Aug 2026, 04:32 PM IST",
+      "analysis": "EXIT trigger active at \u20b9419.4 (RSI: 73.58)."
     }
   ]
 }
