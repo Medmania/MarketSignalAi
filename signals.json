@@ -1,23 +1,14 @@
 {
-  "last_updated": "03 Sep 2026, 08:05 PM IST",
+  "last_updated": "04 Sep 2026, 02:28 PM IST",
   "signals": [
-    {
-      "ticker": "SUNPHARMA.NS",
-      "type": "BUY",
-      "price": 1916.0,
-      "rsi": 47.56,
-      "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "03 Sep 2026, 08:05 PM IST",
-      "analysis": "BUY trigger active at \u20b91916.0 (RSI: 47.56)."
-    },
     {
       "ticker": "KOTAKBANK.NS",
       "type": "EXIT",
-      "price": 421.15,
-      "rsi": 74.96,
+      "price": 424.25,
+      "rsi": 75.59,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "03 Sep 2026, 08:05 PM IST",
-      "analysis": "EXIT trigger active at \u20b9421.15 (RSI: 74.96)."
+      "time": "04 Sep 2026, 02:28 PM IST",
+      "analysis": "EXIT trigger active at \u20b9424.25 (RSI: 75.59)."
     }
   ]
 }
