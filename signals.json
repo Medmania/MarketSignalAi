@@ -1,14 +1,14 @@
 {
-  "last_updated": "08 Sep 2026, 02:28 PM IST",
+  "last_updated": "08 Sep 2026, 08:03 PM IST",
   "signals": [
     {
       "ticker": "KOTAKBANK.NS",
       "type": "EXIT",
-      "price": 420.5,
-      "rsi": 75.97,
+      "price": 419.25,
+      "rsi": 74.37,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "08 Sep 2026, 02:28 PM IST",
-      "analysis": "EXIT trigger active at \u20b9420.5 (RSI: 75.97)."
+      "time": "08 Sep 2026, 08:03 PM IST",
+      "analysis": "EXIT trigger active at \u20b9419.25 (RSI: 74.37)."
     }
   ]
 }
