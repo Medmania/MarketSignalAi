@@ -1,14 +1,14 @@
 {
-  "last_updated": "25 Sep 2026, 03:13 PM IST",
+  "last_updated": "25 Sep 2026, 08:46 PM IST",
   "signals": [
     {
       "ticker": "SUNPHARMA.NS",
       "type": "BUY",
-      "price": 1851.0,
-      "rsi": 39.58,
+      "price": 1852.2,
+      "rsi": 39.92,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "25 Sep 2026, 03:13 PM IST",
-      "analysis": "BUY trigger active at \u20b91851.0 (RSI: 39.58)."
+      "time": "25 Sep 2026, 08:46 PM IST",
+      "analysis": "BUY trigger active at \u20b91852.2 (RSI: 39.92)."
     }
   ]
 }
