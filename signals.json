@@ -1,41 +1,23 @@
 {
-  "last_updated": "16 Oct 2026, 08:21 PM IST",
+  "last_updated": "19 Oct 2026, 03:38 PM IST",
   "signals": [
     {
       "ticker": "TCS.NS",
       "type": "EXIT",
-      "price": 2465.0,
-      "rsi": 81.23,
+      "price": 2460.9,
+      "rsi": 82.16,
       "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "16 Oct 2026, 08:21 PM IST",
-      "analysis": "EXIT trigger active at \u20b92465.0 (RSI: 81.23)."
-    },
-    {
-      "ticker": "INFY.NS",
-      "type": "EXIT",
-      "price": 1161.2,
-      "rsi": 77.16,
-      "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "16 Oct 2026, 08:21 PM IST",
-      "analysis": "EXIT trigger active at \u20b91161.2 (RSI: 77.16)."
-    },
-    {
-      "ticker": "AXISBANK.NS",
-      "type": "EXIT",
-      "price": 1290.0,
-      "rsi": 73.94,
-      "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "16 Oct 2026, 08:21 PM IST",
-      "analysis": "EXIT trigger active at \u20b91290.0 (RSI: 73.94)."
+      "time": "19 Oct 2026, 03:38 PM IST",
+      "analysis": "EXIT trigger active at \u20b92460.9 (RSI: 82.16)."
     },
     {
       "ticker": "KOTAKBANK.NS",
       "type": "EXIT",
-      "price": 447.4,
-      "rsi": 79.01,
+      "price": 442.3,
+      "rsi": 76.31,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "16 Oct 2026, 08:21 PM IST",
-      "analysis": "EXIT trigger active at \u20b9447.4 (RSI: 79.01)."
+      "time": "19 Oct 2026, 03:38 PM IST",
+      "analysis": "EXIT trigger active at \u20b9442.3 (RSI: 76.31)."
     }
   ]
 }
