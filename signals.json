@@ -1,23 +1,14 @@
 {
-  "last_updated": "20 Oct 2026, 08:36 PM IST",
+  "last_updated": "21 Oct 2026, 02:59 PM IST",
   "signals": [
     {
       "ticker": "TCS.NS",
       "type": "EXIT",
-      "price": 2460.9,
-      "rsi": 82.16,
-      "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "20 Oct 2026, 08:36 PM IST",
-      "analysis": "EXIT trigger active at \u20b92460.9 (RSI: 82.16)."
-    },
-    {
-      "ticker": "KOTAKBANK.NS",
-      "type": "EXIT",
-      "price": 442.3,
-      "rsi": 76.31,
+      "price": 2509.7,
+      "rsi": 88.47,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "20 Oct 2026, 08:36 PM IST",
-      "analysis": "EXIT trigger active at \u20b9442.3 (RSI: 76.31)."
+      "time": "21 Oct 2026, 02:59 PM IST",
+      "analysis": "EXIT trigger active at \u20b92509.7 (RSI: 88.47)."
     }
   ]
 }
