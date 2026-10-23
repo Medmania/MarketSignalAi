@@ -1,14 +1,14 @@
 {
-  "last_updated": "23 Oct 2026, 02:58 PM IST",
+  "last_updated": "23 Oct 2026, 08:34 PM IST",
   "signals": [
     {
       "ticker": "TCS.NS",
       "type": "EXIT",
-      "price": 2539.7,
-      "rsi": 85.7,
+      "price": 2530.0,
+      "rsi": 85.49,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "23 Oct 2026, 02:58 PM IST",
-      "analysis": "EXIT trigger active at \u20b92539.7 (RSI: 85.7)."
+      "time": "23 Oct 2026, 08:34 PM IST",
+      "analysis": "EXIT trigger active at \u20b92530.0 (RSI: 85.49)."
     }
   ]
 }
