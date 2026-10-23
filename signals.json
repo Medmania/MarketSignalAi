@@ -1,23 +1,14 @@
 {
-  "last_updated": "22 Oct 2026, 08:47 PM IST",
+  "last_updated": "23 Oct 2026, 02:58 PM IST",
   "signals": [
     {
       "ticker": "TCS.NS",
       "type": "EXIT",
-      "price": 2506.9,
-      "rsi": 85.52,
+      "price": 2539.7,
+      "rsi": 85.7,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "22 Oct 2026, 08:47 PM IST",
-      "analysis": "EXIT trigger active at \u20b92506.9 (RSI: 85.52)."
-    },
-    {
-      "ticker": "INFY.NS",
-      "type": "EXIT",
-      "price": 1153.35,
-      "rsi": 73.26,
-      "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "22 Oct 2026, 08:47 PM IST",
-      "analysis": "EXIT trigger active at \u20b91153.35 (RSI: 73.26)."
+      "time": "23 Oct 2026, 02:58 PM IST",
+      "analysis": "EXIT trigger active at \u20b92539.7 (RSI: 85.7)."
     }
   ]
 }
