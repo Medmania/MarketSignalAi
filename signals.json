@@ -1,32 +1,14 @@
 {
-  "last_updated": "27 Oct 2026, 09:23 PM IST",
+  "last_updated": "28 Oct 2026, 04:13 PM IST",
   "signals": [
     {
       "ticker": "TCS.NS",
       "type": "EXIT",
-      "price": 2496.9,
-      "rsi": 81.58,
+      "price": 2460.0,
+      "rsi": 79.45,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "27 Oct 2026, 09:23 PM IST",
-      "analysis": "EXIT trigger active at \u20b92496.9 (RSI: 81.58)."
-    },
-    {
-      "ticker": "INFY.NS",
-      "type": "EXIT",
-      "price": 1163.0,
-      "rsi": 75.2,
-      "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "27 Oct 2026, 09:23 PM IST",
-      "analysis": "EXIT trigger active at \u20b91163.0 (RSI: 75.2)."
-    },
-    {
-      "ticker": "BHARTIARTL.NS",
-      "type": "EXIT",
-      "price": 1978.8,
-      "rsi": 72.81,
-      "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "27 Oct 2026, 09:23 PM IST",
-      "analysis": "EXIT trigger active at \u20b91978.8 (RSI: 72.81)."
+      "time": "28 Oct 2026, 04:13 PM IST",
+      "analysis": "EXIT trigger active at \u20b92460.0 (RSI: 79.45)."
     }
   ]
 }
