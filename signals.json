@@ -1,5 +1,5 @@
 {
-  "last_updated": "29 Oct 2026, 04:31 PM IST",
+  "last_updated": "29 Oct 2026, 10:26 PM IST",
   "signals": [
     {
       "ticker": "TCS.NS",
@@ -7,7 +7,7 @@
       "price": 2478.0,
       "rsi": 80.5,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "29 Oct 2026, 04:31 PM IST",
+      "time": "29 Oct 2026, 10:26 PM IST",
       "analysis": "EXIT trigger active at \u20b92478.0 (RSI: 80.5)."
     },
     {
@@ -16,7 +16,7 @@
       "price": 1146.5,
       "rsi": 72.49,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "29 Oct 2026, 04:31 PM IST",
+      "time": "29 Oct 2026, 10:26 PM IST",
       "analysis": "EXIT trigger active at \u20b91146.5 (RSI: 72.49)."
     },
     {
@@ -25,7 +25,7 @@
       "price": 1972.1,
       "rsi": 72.58,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "29 Oct 2026, 04:31 PM IST",
+      "time": "29 Oct 2026, 10:26 PM IST",
       "analysis": "EXIT trigger active at \u20b91972.1 (RSI: 72.58)."
     }
   ]
