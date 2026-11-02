@@ -1,41 +1,41 @@
 {
-  "last_updated": "02 Nov 2026, 06:15 PM IST",
+  "last_updated": "03 Nov 2026, 01:51 AM IST",
   "signals": [
-    {
-      "ticker": "RELIANCE.NS",
-      "type": "EXIT",
-      "price": 1300.0,
-      "rsi": 72.85,
-      "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "02 Nov 2026, 06:15 PM IST",
-      "analysis": "EXIT trigger active at \u20b91300.0 (RSI: 72.85)."
-    },
     {
       "ticker": "TCS.NS",
       "type": "EXIT",
-      "price": 2501.7,
-      "rsi": 82.76,
+      "price": NaN,
+      "rsi": 82.88,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "02 Nov 2026, 06:15 PM IST",
-      "analysis": "EXIT trigger active at \u20b92501.7 (RSI: 82.76)."
+      "time": "03 Nov 2026, 01:51 AM IST",
+      "analysis": "EXIT trigger active at \u20b9nan (RSI: 82.88)."
+    },
+    {
+      "ticker": "INFY.NS",
+      "type": "EXIT",
+      "price": NaN,
+      "rsi": 74.19,
+      "indicators": "MACD: Bullish Crossover | Vol: Normal",
+      "time": "03 Nov 2026, 01:51 AM IST",
+      "analysis": "EXIT trigger active at \u20b9nan (RSI: 74.19)."
     },
     {
       "ticker": "BHARTIARTL.NS",
       "type": "EXIT",
-      "price": 1989.9,
-      "rsi": 79.19,
+      "price": NaN,
+      "rsi": 78.21,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "02 Nov 2026, 06:15 PM IST",
-      "analysis": "EXIT trigger active at \u20b91989.9 (RSI: 79.19)."
+      "time": "03 Nov 2026, 01:51 AM IST",
+      "analysis": "EXIT trigger active at \u20b9nan (RSI: 78.21)."
     },
     {
       "ticker": "LT.NS",
       "type": "EXIT",
-      "price": 3939.9,
-      "rsi": 81.89,
+      "price": NaN,
+      "rsi": 78.96,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "02 Nov 2026, 06:15 PM IST",
-      "analysis": "EXIT trigger active at \u20b93939.9 (RSI: 81.89)."
+      "time": "03 Nov 2026, 01:51 AM IST",
+      "analysis": "EXIT trigger active at \u20b9nan (RSI: 78.96)."
     }
   ]
 }
