@@ -1,50 +1,50 @@
 {
-  "last_updated": "03 Nov 2026, 11:21 PM IST",
+  "last_updated": "04 Nov 2026, 05:53 PM IST",
   "signals": [
     {
       "ticker": "RELIANCE.NS",
       "type": "EXIT",
-      "price": 1307.9,
-      "rsi": 72.86,
-      "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "03 Nov 2026, 11:21 PM IST",
-      "analysis": "EXIT trigger active at \u20b91307.9 (RSI: 72.86)."
-    },
-    {
-      "ticker": "TCS.NS",
-      "type": "EXIT",
-      "price": 2499.1,
-      "rsi": 76.8,
+      "price": 1311.0,
+      "rsi": 72.43,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "03 Nov 2026, 11:21 PM IST",
-      "analysis": "EXIT trigger active at \u20b92499.1 (RSI: 76.8)."
+      "time": "04 Nov 2026, 05:53 PM IST",
+      "analysis": "EXIT trigger active at \u20b91311.0 (RSI: 72.43)."
     },
     {
       "ticker": "BHARTIARTL.NS",
       "type": "EXIT",
-      "price": 2065.0,
-      "rsi": 81.59,
-      "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "03 Nov 2026, 11:21 PM IST",
-      "analysis": "EXIT trigger active at \u20b92065.0 (RSI: 81.59)."
+      "price": 2067.6,
+      "rsi": 84.14,
+      "indicators": "MACD: Bullish Crossover | Vol: Normal",
+      "time": "04 Nov 2026, 05:53 PM IST",
+      "analysis": "EXIT trigger active at \u20b92067.6 (RSI: 84.14)."
     },
     {
       "ticker": "ITC.NS",
       "type": "EXIT",
-      "price": 273.9,
-      "rsi": 72.01,
+      "price": 280.0,
+      "rsi": 76.5,
       "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "03 Nov 2026, 11:21 PM IST",
-      "analysis": "EXIT trigger active at \u20b9273.9 (RSI: 72.01)."
+      "time": "04 Nov 2026, 05:53 PM IST",
+      "analysis": "EXIT trigger active at \u20b9280.0 (RSI: 76.5)."
     },
     {
       "ticker": "LT.NS",
       "type": "EXIT",
-      "price": 3948.2,
-      "rsi": 80.32,
+      "price": 3944.4,
+      "rsi": 85.88,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "03 Nov 2026, 11:21 PM IST",
-      "analysis": "EXIT trigger active at \u20b93948.2 (RSI: 80.32)."
+      "time": "04 Nov 2026, 05:53 PM IST",
+      "analysis": "EXIT trigger active at \u20b93944.4 (RSI: 85.88)."
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "type": "EXIT",
+      "price": 11995.0,
+      "rsi": 72.21,
+      "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
+      "time": "04 Nov 2026, 05:53 PM IST",
+      "analysis": "EXIT trigger active at \u20b911995.0 (RSI: 72.21)."
     }
   ]
 }
