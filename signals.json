@@ -1,5 +1,5 @@
 {
-  "last_updated": "06 Nov 2026, 05:50 PM IST",
+  "last_updated": "06 Nov 2026, 11:00 PM IST",
   "signals": [
     {
       "ticker": "ICICIBANK.NS",
@@ -7,7 +7,7 @@
       "price": 1571.2,
       "rsi": 80.29,
       "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "06 Nov 2026, 05:50 PM IST",
+      "time": "06 Nov 2026, 11:00 PM IST",
       "analysis": "EXIT trigger active at \u20b91571.2 (RSI: 80.29)."
     },
     {
@@ -16,7 +16,7 @@
       "price": 2107.2,
       "rsi": 78.85,
       "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "06 Nov 2026, 05:50 PM IST",
+      "time": "06 Nov 2026, 11:00 PM IST",
       "analysis": "EXIT trigger active at \u20b92107.2 (RSI: 78.85)."
     },
     {
@@ -25,7 +25,7 @@
       "price": 283.15,
       "rsi": 76.17,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "06 Nov 2026, 05:50 PM IST",
+      "time": "06 Nov 2026, 11:00 PM IST",
       "analysis": "EXIT trigger active at \u20b9283.15 (RSI: 76.17)."
     },
     {
@@ -34,7 +34,7 @@
       "price": 4117.7,
       "rsi": 92.31,
       "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "06 Nov 2026, 05:50 PM IST",
+      "time": "06 Nov 2026, 11:00 PM IST",
       "analysis": "EXIT trigger active at \u20b94117.7 (RSI: 92.31)."
     },
     {
@@ -43,7 +43,7 @@
       "price": 12750.0,
       "rsi": 77.62,
       "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "06 Nov 2026, 05:50 PM IST",
+      "time": "06 Nov 2026, 11:00 PM IST",
       "analysis": "EXIT trigger active at \u20b912750.0 (RSI: 77.62)."
     },
     {
@@ -52,7 +52,7 @@
       "price": 1860.0,
       "rsi": 77.44,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "06 Nov 2026, 05:50 PM IST",
+      "time": "06 Nov 2026, 11:00 PM IST",
       "analysis": "EXIT trigger active at \u20b91860.0 (RSI: 77.44)."
     }
   ]
