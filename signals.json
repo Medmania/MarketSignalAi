@@ -1,50 +1,59 @@
 {
-  "last_updated": "05 Nov 2026, 11:31 PM IST",
+  "last_updated": "06 Nov 2026, 05:50 PM IST",
   "signals": [
     {
       "ticker": "ICICIBANK.NS",
       "type": "EXIT",
-      "price": 1500.0,
-      "rsi": 74.69,
+      "price": 1571.2,
+      "rsi": 80.29,
       "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "05 Nov 2026, 11:31 PM IST",
-      "analysis": "EXIT trigger active at \u20b91500.0 (RSI: 74.69)."
+      "time": "06 Nov 2026, 05:50 PM IST",
+      "analysis": "EXIT trigger active at \u20b91571.2 (RSI: 80.29)."
     },
     {
       "ticker": "BHARTIARTL.NS",
       "type": "EXIT",
-      "price": 2056.9,
-      "rsi": 78.89,
-      "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "05 Nov 2026, 11:31 PM IST",
-      "analysis": "EXIT trigger active at \u20b92056.9 (RSI: 78.89)."
+      "price": 2107.2,
+      "rsi": 78.85,
+      "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
+      "time": "06 Nov 2026, 05:50 PM IST",
+      "analysis": "EXIT trigger active at \u20b92107.2 (RSI: 78.85)."
     },
     {
       "ticker": "ITC.NS",
       "type": "EXIT",
-      "price": 278.85,
-      "rsi": 72.21,
+      "price": 283.15,
+      "rsi": 76.17,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "05 Nov 2026, 11:31 PM IST",
-      "analysis": "EXIT trigger active at \u20b9278.85 (RSI: 72.21)."
+      "time": "06 Nov 2026, 05:50 PM IST",
+      "analysis": "EXIT trigger active at \u20b9283.15 (RSI: 76.17)."
     },
     {
       "ticker": "LT.NS",
       "type": "EXIT",
-      "price": 4050.0,
-      "rsi": 90.43,
+      "price": 4117.7,
+      "rsi": 92.31,
       "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "05 Nov 2026, 11:31 PM IST",
-      "analysis": "EXIT trigger active at \u20b94050.0 (RSI: 90.43)."
+      "time": "06 Nov 2026, 05:50 PM IST",
+      "analysis": "EXIT trigger active at \u20b94117.7 (RSI: 92.31)."
     },
     {
       "ticker": "MARUTI.NS",
       "type": "EXIT",
-      "price": 12652.0,
-      "rsi": 77.07,
+      "price": 12750.0,
+      "rsi": 77.62,
       "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "05 Nov 2026, 11:31 PM IST",
-      "analysis": "EXIT trigger active at \u20b912652.0 (RSI: 77.07)."
+      "time": "06 Nov 2026, 05:50 PM IST",
+      "analysis": "EXIT trigger active at \u20b912750.0 (RSI: 77.62)."
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "type": "EXIT",
+      "price": 1860.0,
+      "rsi": 77.44,
+      "indicators": "MACD: Bullish Crossover | Vol: Normal",
+      "time": "06 Nov 2026, 05:50 PM IST",
+      "analysis": "EXIT trigger active at \u20b91860.0 (RSI: 77.44)."
     }
   ]
 }
