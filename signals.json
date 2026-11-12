@@ -1,5 +1,5 @@
 {
-  "last_updated": "12 Nov 2026, 06:34 PM IST",
+  "last_updated": "12 Nov 2026, 11:50 PM IST",
   "signals": [
     {
       "ticker": "RELIANCE.NS",
@@ -7,7 +7,7 @@
       "price": 1339.7,
       "rsi": 81.32,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "12 Nov 2026, 06:34 PM IST",
+      "time": "12 Nov 2026, 11:50 PM IST",
       "analysis": "EXIT trigger active at \u20b91339.7 (RSI: 81.32)."
     },
     {
@@ -16,7 +16,7 @@
       "price": 812.3,
       "rsi": 89.43,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "12 Nov 2026, 06:34 PM IST",
+      "time": "12 Nov 2026, 11:50 PM IST",
       "analysis": "EXIT trigger active at \u20b9812.3 (RSI: 89.43)."
     },
     {
@@ -25,7 +25,7 @@
       "price": 1590.0,
       "rsi": 81.12,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "12 Nov 2026, 06:34 PM IST",
+      "time": "12 Nov 2026, 11:50 PM IST",
       "analysis": "EXIT trigger active at \u20b91590.0 (RSI: 81.12)."
     },
     {
@@ -34,7 +34,7 @@
       "price": 1086.5,
       "rsi": 75.97,
       "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "12 Nov 2026, 06:34 PM IST",
+      "time": "12 Nov 2026, 11:50 PM IST",
       "analysis": "EXIT trigger active at \u20b91086.5 (RSI: 75.97)."
     },
     {
@@ -43,7 +43,7 @@
       "price": 2096.0,
       "rsi": 76.05,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "12 Nov 2026, 06:34 PM IST",
+      "time": "12 Nov 2026, 11:50 PM IST",
       "analysis": "EXIT trigger active at \u20b92096.0 (RSI: 76.05)."
     },
     {
@@ -52,7 +52,7 @@
       "price": 284.05,
       "rsi": 79.9,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "12 Nov 2026, 06:34 PM IST",
+      "time": "12 Nov 2026, 11:50 PM IST",
       "analysis": "EXIT trigger active at \u20b9284.05 (RSI: 79.9)."
     },
     {
@@ -61,7 +61,7 @@
       "price": 4159.2,
       "rsi": 89.23,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "12 Nov 2026, 06:34 PM IST",
+      "time": "12 Nov 2026, 11:50 PM IST",
       "analysis": "EXIT trigger active at \u20b94159.2 (RSI: 89.23)."
     },
     {
@@ -70,7 +70,7 @@
       "price": 1115.0,
       "rsi": 81.0,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "12 Nov 2026, 06:34 PM IST",
+      "time": "12 Nov 2026, 11:50 PM IST",
       "analysis": "EXIT trigger active at \u20b91115.0 (RSI: 81.0)."
     },
     {
@@ -79,7 +79,7 @@
       "price": 13024.0,
       "rsi": 86.21,
       "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
-      "time": "12 Nov 2026, 06:34 PM IST",
+      "time": "12 Nov 2026, 11:50 PM IST",
       "analysis": "EXIT trigger active at \u20b913024.0 (RSI: 86.21)."
     },
     {
@@ -88,7 +88,7 @@
       "price": 1342.9,
       "rsi": 80.12,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "12 Nov 2026, 06:34 PM IST",
+      "time": "12 Nov 2026, 11:50 PM IST",
       "analysis": "EXIT trigger active at \u20b91342.9 (RSI: 80.12)."
     },
     {
@@ -97,7 +97,7 @@
       "price": 1885.0,
       "rsi": 79.18,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "12 Nov 2026, 06:34 PM IST",
+      "time": "12 Nov 2026, 11:50 PM IST",
       "analysis": "EXIT trigger active at \u20b91885.0 (RSI: 79.18)."
     },
     {
@@ -106,7 +106,7 @@
       "price": 490.4,
       "rsi": 79.87,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "12 Nov 2026, 06:34 PM IST",
+      "time": "12 Nov 2026, 11:50 PM IST",
       "analysis": "EXIT trigger active at \u20b9490.4 (RSI: 79.87)."
     }
   ]
