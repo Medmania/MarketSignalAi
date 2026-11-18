@@ -1,104 +1,104 @@
 {
-  "last_updated": "18 Nov 2026, 12:41 AM IST",
+  "last_updated": "18 Nov 2026, 06:48 PM IST",
   "signals": [
     {
       "ticker": "RELIANCE.NS",
       "type": "EXIT",
-      "price": NaN,
-      "rsi": 82.3,
+      "price": 1363.0,
+      "rsi": 97.02,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "18 Nov 2026, 12:41 AM IST",
-      "analysis": "EXIT trigger active at \u20b9nan (RSI: 82.3)."
+      "time": "18 Nov 2026, 06:48 PM IST",
+      "analysis": "EXIT trigger active at \u20b91363.0 (RSI: 97.02)."
     },
     {
       "ticker": "HDFCBANK.NS",
       "type": "EXIT",
-      "price": NaN,
-      "rsi": 93.44,
+      "price": 808.15,
+      "rsi": 88.35,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "18 Nov 2026, 12:41 AM IST",
-      "analysis": "EXIT trigger active at \u20b9nan (RSI: 93.44)."
+      "time": "18 Nov 2026, 06:48 PM IST",
+      "analysis": "EXIT trigger active at \u20b9808.15 (RSI: 88.35)."
     },
     {
       "ticker": "ICICIBANK.NS",
       "type": "EXIT",
-      "price": NaN,
-      "rsi": 84.6,
+      "price": 1601.3,
+      "rsi": 88.14,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "18 Nov 2026, 12:41 AM IST",
-      "analysis": "EXIT trigger active at \u20b9nan (RSI: 84.6)."
+      "time": "18 Nov 2026, 06:48 PM IST",
+      "analysis": "EXIT trigger active at \u20b91601.3 (RSI: 88.14)."
     },
     {
       "ticker": "SBIN.NS",
       "type": "EXIT",
-      "price": NaN,
-      "rsi": 84.29,
-      "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "18 Nov 2026, 12:41 AM IST",
-      "analysis": "EXIT trigger active at \u20b9nan (RSI: 84.29)."
+      "price": 1135.0,
+      "rsi": 86.4,
+      "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
+      "time": "18 Nov 2026, 06:48 PM IST",
+      "analysis": "EXIT trigger active at \u20b91135.0 (RSI: 86.4)."
     },
     {
       "ticker": "BHARTIARTL.NS",
       "type": "EXIT",
-      "price": NaN,
-      "rsi": 74.7,
+      "price": 2132.0,
+      "rsi": 76.69,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "18 Nov 2026, 12:41 AM IST",
-      "analysis": "EXIT trigger active at \u20b9nan (RSI: 74.7)."
+      "time": "18 Nov 2026, 06:48 PM IST",
+      "analysis": "EXIT trigger active at \u20b92132.0 (RSI: 76.69)."
     },
     {
       "ticker": "ITC.NS",
       "type": "EXIT",
-      "price": NaN,
-      "rsi": 85.82,
+      "price": 296.6,
+      "rsi": 84.61,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "18 Nov 2026, 12:41 AM IST",
-      "analysis": "EXIT trigger active at \u20b9nan (RSI: 85.82)."
+      "time": "18 Nov 2026, 06:48 PM IST",
+      "analysis": "EXIT trigger active at \u20b9296.6 (RSI: 84.61)."
     },
     {
       "ticker": "LT.NS",
       "type": "EXIT",
-      "price": NaN,
-      "rsi": 87.9,
+      "price": 4159.0,
+      "rsi": 85.12,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "18 Nov 2026, 12:41 AM IST",
-      "analysis": "EXIT trigger active at \u20b9nan (RSI: 87.9)."
+      "time": "18 Nov 2026, 06:48 PM IST",
+      "analysis": "EXIT trigger active at \u20b94159.0 (RSI: 85.12)."
     },
     {
       "ticker": "BAJFINANCE.NS",
       "type": "EXIT",
-      "price": NaN,
-      "rsi": 88.4,
+      "price": 1093.85,
+      "rsi": 80.35,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "18 Nov 2026, 12:41 AM IST",
-      "analysis": "EXIT trigger active at \u20b9nan (RSI: 88.4)."
+      "time": "18 Nov 2026, 06:48 PM IST",
+      "analysis": "EXIT trigger active at \u20b91093.85 (RSI: 80.35)."
     },
     {
       "ticker": "AXISBANK.NS",
       "type": "EXIT",
-      "price": NaN,
-      "rsi": 81.31,
+      "price": 1360.0,
+      "rsi": 79.22,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "18 Nov 2026, 12:41 AM IST",
-      "analysis": "EXIT trigger active at \u20b9nan (RSI: 81.31)."
+      "time": "18 Nov 2026, 06:48 PM IST",
+      "analysis": "EXIT trigger active at \u20b91360.0 (RSI: 79.22)."
     },
     {
       "ticker": "SUNPHARMA.NS",
       "type": "EXIT",
-      "price": NaN,
-      "rsi": 78.24,
+      "price": 1871.5,
+      "rsi": 78.0,
       "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "18 Nov 2026, 12:41 AM IST",
-      "analysis": "EXIT trigger active at \u20b9nan (RSI: 78.24)."
+      "time": "18 Nov 2026, 06:48 PM IST",
+      "analysis": "EXIT trigger active at \u20b91871.5 (RSI: 78.0)."
     },
     {
       "ticker": "KOTAKBANK.NS",
       "type": "EXIT",
-      "price": NaN,
-      "rsi": 82.97,
-      "indicators": "MACD: Bullish Crossover | Vol: Normal",
-      "time": "18 Nov 2026, 12:41 AM IST",
-      "analysis": "EXIT trigger active at \u20b9nan (RSI: 82.97)."
+      "price": 494.85,
+      "rsi": 83.71,
+      "indicators": "MACD: Bullish Crossover | Vol: \ud83d\udd25 High",
+      "time": "18 Nov 2026, 06:48 PM IST",
+      "analysis": "EXIT trigger active at \u20b9494.85 (RSI: 83.71)."
     }
   ]
 }
